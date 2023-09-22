@@ -1,0 +1,4 @@
+npm install --global sanity@latest
+sanity login
+Google
+npm create sanity@latest
